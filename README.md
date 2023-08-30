@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.wang
-- 👀 I’m interested in slam、robots、arm、linux、C++
-- 🌱 I’m currently learning power electronics and arm 
+- 👀 I’m interested in arm、robots、linux、C++
+- 🌱 I’m currently learning power electronics  
 - 💞️ I’m looking to collaborate on my reading note.
 - 📫 812162636@qq.com
 <!---
