@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.wang
-- 👀 I’m interested in arm、robots、linux、C++
-- 🌱 I’m currently learning power electronics  
+- 👀 I’m interested in risc-v、arm、accelerator
+- 🌱 I’m currently learning Data Prefetching
 - 💞️ I’m looking to collaborate on my reading note.
 - 📫 812162636@qq.com
 <!---
